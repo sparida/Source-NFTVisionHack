@@ -10,3 +10,5 @@ https://github.com/crowsonkb/style-transfer-pytorch
 The "GeneratedArt" was made using text input from the lines of the poem "Source" (Refer to SourceIntroDiagram.png) using "vqgan_clip.py".
 
 Further the art style was applied to "MonochromeIllustrations" to create "ColouredIllustrations" using "style_transfer_pytorch.py".
+
+Final artwork is under "FinalArtPieces"

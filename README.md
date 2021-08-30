@@ -11,4 +11,4 @@ The "GeneratedArt" was made using text input from the lines of the poem "Source"
 
 Further the art style was applied to "MonochromeIllustrations" to create "ColouredIllustrations" using "style_transfer_pytorch.py".
 
-Final artwork is under "FinalArtPieces"
+Finally the illustrations were combined to form artpieces, which can be found under "FinalArtPieces".
